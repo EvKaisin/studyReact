@@ -1,0 +1,14 @@
+.footer{
+  background-color: #F5F3EA;
+  text-align: center;
+  margin-top: 20px;
+  flex-shrink: 0;
+}
+.contact{
+  padding: 15px;
+}
+.footer_pic{
+  width: 30px;
+  height: 30px;
+  margin-top: 5px;
+}

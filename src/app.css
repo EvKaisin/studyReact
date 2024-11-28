@@ -7,3 +7,9 @@
 .universe{
     margin: 10px;
 }
+
+.main{
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}

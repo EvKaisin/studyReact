@@ -1,0 +1,38 @@
+.greeting {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  margin-top: 100px;
+  font-family: Roboto;
+  flex-grow: 1;
+  flex-direction: column;
+}
+
+img{
+  width: 270px;
+  height: 180px;
+}
+
+.top_pic{
+  display: flex;
+  flex-direction: row;
+  width: 1300px;
+  justify-content: space-between
+}
+
+.down_pic{
+  display: flex;
+  flex-direction: row;
+  width: 1300px;
+  justify-content: space-between;
+}
+
+.text{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-size: 18px;
+  color: #1B1C1D;
+  text-align: center;
+}
